@@ -1,15 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:173B6C,100:3978C6&text=Aidos%20Aidaruly&fontColor=FFFFFF&fontSize=48&fontAlignY=39&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Profile banner"/>
+# 👋 Hello, I'm Aidos Aidaruly!
 
-<a href="https://github.com/AidosAidaruly">
-<img src="https://img.shields.io/badge/GitHub-AidosAidaruly-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Software Engineer | Full-Stack & Mobile Developer
 
-<img src="https://komarev.com/ghpvc/?username=AidosAidaruly&style=for-the-badge&color=3978C6"/>
+**Building ideas into real-world applications.**
 
-### Building useful products, learning continuously, and turning ideas into software.
+![Software Engineering](https://img.shields.io/badge/Software-Engineering-2563EB?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-0F766E?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-Developer-7C3AED?style=for-the-badge)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AidosAidaruly-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AidosAidaruly)
+![Location](https://img.shields.io/badge/Location-Astana%2C%20Kazakhstan-1E40AF?style=flat-square)
 
 </div>
 
@@ -17,35 +22,43 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year **Software Engineering student** at **Astana IT University**, Kazakhstan.
+I'm a final-year **Software Engineering student** at
+**Astana IT University**, Kazakhstan.
 
-- 🎓 Expected graduation: **2027**
-- 🚀 Currently building **TazaScan**
-- 💻 Full-Stack & Mobile Development
-- 🧠 Interested in Applied AI, Cloud Computing and Software Architecture
-- 🌏 Based in Astana, Kazakhstan
+I enjoy designing and building applications that solve
+real problems, from full-stack web platforms to mobile apps.
+
+My interests include **Software Engineering, Applied AI,
+Cloud Computing, and Software Architecture**.
+
+- 🎓 **Education:** Astana IT University
+- 🗓️ **Graduation:** Expected in 2027
+- 🚀 **Currently building:** TazaScan
+- 💻 **Focus:** Full-Stack & Mobile Development
+- 🧠 **Exploring:** Applied AI and intelligent applications
+- 🌍 **Location:** Astana, Kazakhstan
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-**Programming Languages**
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,cpp,swift&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,cpp,swift&theme=dark" alt="Programming languages"/>
 
-**Frontend & Mobile**
+### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark" alt="Frontend and mobile technologies"/>
 
-**Backend & Databases**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=dark" alt="Backend and databases"/>
 
-**Developer Tools**
+### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,docker,unity,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker,unity,vscode&theme=dark" alt="Developer tools"/>
 
 </div>
 
@@ -53,44 +66,96 @@ I'm a final-year **Software Engineering student** at **Astana IT University**, K
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+**A selection of projects I've built and worked on.**
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥗 [TazaScan](https://github.com/AidosAidaruly/TazaScan)
+### 🥗 TazaScan
 
-Mobile product scanner and ingredient analysis application.
+A mobile application designed to help users explore
+food products, analyze ingredient information, and
+make more informed choices.
 
-**Tech:** Flutter, TypeScript, Node.js, PostgreSQL
+**Features**
+- Barcode scanning and product search
+- Ingredient analysis
+- Product scoring
+- Favorites and scan history
+
+**Tech Stack**
+
+`Flutter` `Dart` `TypeScript` `Node.js` `PostgreSQL`
+
+[View Repository](https://github.com/AidosAidaruly/TazaScan)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [University Management System](https://github.com/AidosAidaruly/University-Management-System)
+### 🎓 University Management System
 
-Full-stack university management platform with role-based access.
+A full-stack academic management platform designed
+to organize university processes.
 
-**Tech:** React, TypeScript, Node.js, PostgreSQL
+**Features**
+- Role-based access control
+- Student and teacher management
+- Authentication
+- Database integration
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Prisma` `PostgreSQL`
+
+[View Repository](https://github.com/AidosAidaruly/University-Management-System)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 [Hotel Booking Project](https://github.com/AidosAidaruly/HotelBookingProject)
+### 🏨 Hotel Booking Project
 
-Educational hotel room booking system.
+An educational hotel room booking application
+demonstrating object-oriented programming and
+database design.
 
-**Tech:** Java, PostgreSQL
+**Highlights**
+- Booking management
+- Relational database
+- Java OOP principles
+
+**Tech Stack**
+
+`Java` `PostgreSQL`
+
+[View Repository](https://github.com/AidosAidaruly/HotelBookingProject)
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ [SkyView Weather App](https://github.com/AidosAidaruly/SkyView-Weather-App)
+### ☁️ SkyView Weather App
 
-Flutter weather app featuring real-time weather information.
+A Flutter mobile application featuring
+real-time weather information and a
+mobile-friendly interface.
 
-**Tech:** Flutter, Dart
+**Highlights**
+- Weather API integration
+- Custom application icon
+- Android release build
+
+**Tech Stack**
+
+`Flutter` `Dart`
+
+[View Repository](https://github.com/AidosAidaruly/SkyView-Weather-App)
 
 </td>
 </tr>
@@ -98,31 +163,58 @@ Flutter weather app featuring real-time weather information.
 
 <div align="center">
 
-[Explore All My Repositories](https://github.com/AidosAidaruly?tab=repositories)
+### 🔎 Explore More
+
+[![All Repositories](https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AidosAidaruly?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
+
+| Area | What I'm Working On |
+|:---|:---|
+| 🚀 Product Development | Building and improving TazaScan |
+| 🌐 Full-Stack | Developing scalable web applications |
+| 📱 Mobile | Flutter and cross-platform development |
+| 🧠 Applied AI | Exploring intelligent software solutions |
+| ☁️ Cloud | Strengthening cloud and deployment skills |
+
+---
+
+## 📈 Development Journey
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AidosAidaruly&show_icons=true&hide_border=true&theme=tokyonight"/>
+### Always learning. Always building.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidosAidaruly&layout=compact&hide_border=true&theme=tokyonight"/>
+I believe that great software comes from curiosity,
+consistent practice, and solving meaningful problems.
+
+**Explore my contributions and projects on GitHub.**
+
+[![GitHub Activity](https://img.shields.io/badge/View_My_GitHub_Activity-1E40AF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AidosAidaruly)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: [AidosAidaruly](https://github.com/AidosAidaruly)
-- Location: Astana, Kazakhstan
+I'm interested in software engineering,
+collaborative projects, and research opportunities.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0B1220,50:173B6C,100:3978C6" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-AidosAidaruly-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AidosAidaruly)
+
+**📍 Astana, Kazakhstan**
+
+---
+
+### 💻 Code. Learn. Build. Improve.
+
+*Thanks for visiting my profile!*
 
 </div>
